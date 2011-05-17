@@ -1,4 +1,4 @@
-This is the deprecated version of Carneades, implemented in R6RS Scheme, 
+This is a deprecated version of Carneades, implemented in R6RS Scheme, 
 which was developed during the European ESTRELLA project (IST-2004-027655) 
 from 2006-2008. In the meantime, Carneades has been reimplemented in Clojure 
 and ported to the Java Virtual Machine.  See https://github.com/carneades/carneades 
