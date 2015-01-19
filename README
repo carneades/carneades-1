@@ -1,3 +1,4 @@
 This is the version of Carneades, implemented in R6RS Scheme, 
 developed during the European ESTRELLA project (IST-2004-027655) 
-from 2006-2008. See https://github.com/carneades for other versions of Carneades.
+from 2006-2008. Also includes an experimental graphical user interface, 
+implemented in JavaFX by Matthias Grabmair in a Google Summer of Code project.
